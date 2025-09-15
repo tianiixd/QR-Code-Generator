@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "Generates Qr-image from the url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tianiixd",
+  "license": "ISC",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}
